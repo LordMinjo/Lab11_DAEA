@@ -1,0 +1,12 @@
+E:\Proyectos C#\SchoolApp\SchoolBLL\bin\Debug\SchoolBLL.dll
+E:\Proyectos C#\SchoolApp\SchoolBLL\bin\Debug\SchoolBLL.pdb
+E:\Proyectos C#\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.dll
+E:\Proyectos C#\SchoolApp\SchoolBLL\bin\Debug\SchoolEntities.dll
+E:\Proyectos C#\SchoolApp\SchoolBLL\bin\Debug\EntityFramework.dll
+E:\Proyectos C#\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.pdb
+E:\Proyectos C#\SchoolApp\SchoolBLL\bin\Debug\SchoolEntities.pdb
+E:\Proyectos C#\SchoolApp\SchoolBLL\bin\Debug\EntityFramework.xml
+E:\Proyectos C#\SchoolApp\SchoolBLL\bin\Debug\es\EntityFramework.resources.dll
+E:\Proyectos C#\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.dll
+E:\Proyectos C#\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.pdb

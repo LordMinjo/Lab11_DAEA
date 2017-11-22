@@ -1,0 +1,5 @@
+E:\Proyectos C#\SchoolApp\SchoolEntities\bin\Debug\SchoolEntities.dll
+E:\Proyectos C#\SchoolApp\SchoolEntities\bin\Debug\SchoolEntities.pdb
+E:\Proyectos C#\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.dll
+E:\Proyectos C#\SchoolApp\SchoolEntities\obj\Debug\SchoolEntities.pdb

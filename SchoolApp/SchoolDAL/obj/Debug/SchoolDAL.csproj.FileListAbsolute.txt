@@ -1,0 +1,14 @@
+E:\Proyectos C#\SchoolApp\SchoolDAL\bin\Debug\SchoolDAL.dll.config
+E:\Proyectos C#\SchoolApp\SchoolDAL\bin\Debug\SchoolDAL.dll
+E:\Proyectos C#\SchoolApp\SchoolDAL\bin\Debug\SchoolDAL.pdb
+E:\Proyectos C#\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.dll
+E:\Proyectos C#\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Proyectos C#\SchoolApp\SchoolDAL\bin\Debug\SchoolEntities.dll
+E:\Proyectos C#\SchoolApp\SchoolDAL\bin\Debug\SchoolEntities.pdb
+E:\Proyectos C#\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.xml
+E:\Proyectos C#\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Proyectos C#\SchoolApp\SchoolDAL\bin\Debug\es\EntityFramework.resources.dll
+E:\Proyectos C#\SchoolApp\SchoolDAL\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+E:\Proyectos C#\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.dll
+E:\Proyectos C#\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.pdb

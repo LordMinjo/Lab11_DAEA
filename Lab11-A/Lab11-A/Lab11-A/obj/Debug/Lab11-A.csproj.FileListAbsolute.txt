@@ -1,0 +1,13 @@
+E:\Proyectos C#\Lab11-A\Lab11-A\Lab11-A\bin\Debug\Lab11-A.exe.config
+E:\Proyectos C#\Lab11-A\Lab11-A\Lab11-A\bin\Debug\Lab11-A.exe
+E:\Proyectos C#\Lab11-A\Lab11-A\Lab11-A\bin\Debug\Lab11-A.pdb
+E:\Proyectos C#\Lab11-A\Lab11-A\Lab11-A\bin\Debug\EntityFramework.dll
+E:\Proyectos C#\Lab11-A\Lab11-A\Lab11-A\bin\Debug\EntityFramework.SqlServer.dll
+E:\Proyectos C#\Lab11-A\Lab11-A\Lab11-A\bin\Debug\EntityFramework.xml
+E:\Proyectos C#\Lab11-A\Lab11-A\Lab11-A\bin\Debug\EntityFramework.SqlServer.xml
+E:\Proyectos C#\Lab11-A\Lab11-A\Lab11-A\obj\Debug\Lab11-A.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\Lab11-A\Lab11-A\Lab11-A\obj\Debug\Lab11-A.exe
+E:\Proyectos C#\Lab11-A\Lab11-A\Lab11-A\obj\Debug\Lab11-A.pdb
+C:\Users\Syn\Desktop\mollo labs\11\Lab11-A\Lab11-A\Lab11-A\bin\Debug\Lab11-A.exe.config
+C:\Users\Syn\Desktop\mollo labs\11\Lab11-A\Lab11-A\Lab11-A\obj\Debug\Lab11-A.exe
+C:\Users\Syn\Desktop\mollo labs\11\Lab11-A\Lab11-A\Lab11-A\obj\Debug\Lab11-A.pdb
